@@ -2,6 +2,10 @@
 
 REST API, consuming and calculating data from air quality sensors, used for respiratory health.
 
+## Requirements
+
+[Requirements doc](requirements.md) from Propeller Health
+
 ## Getting Started
 
 - `npm install`
