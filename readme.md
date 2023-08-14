@@ -1,6 +1,6 @@
 # Air Quality Api
 
-Air quality data used for respiratory health
+REST API, consuming and calculating data from air quality sensors, used for respiratory health.
 
 ## Getting Started
 
